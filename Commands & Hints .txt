@@ -61,6 +61,10 @@ gitignore (tgahol kol al ta8erat 3la file mo3yn)
 Github - BigBucket - GitLab
 1- cloud using like a CV to show ur Projects
 2- Teamwork: push & pull the code
+lma al lon al pink aly fy al SOURCE CONTROL GRAPH yb2a fo2 khales kda al project kolo marfo3 3la github
+lma yb2a fy nodes bl pink w nodes bl blu 
+  al pink : marfo3 3la github
+  al blue : lsa mat3mlho4 push 3la git hub 
 
 git remote add origin https://github.com/Yahya-yasser/Learn_Git.git
 git branch -M main      (change name of branch from master to MAIN)
