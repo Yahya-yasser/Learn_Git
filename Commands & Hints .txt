@@ -26,6 +26,12 @@ Commands
 
   git log --oneline       (show that where is the HEAD, master)
   git branch -f master <hash> (by5ly al master 3la al commit aly anta 3awzo)
+  HEAD=>Master=>Initail Commit
+  HEAD 
+    pointer by4awr 3la :::
+    al mkan aly anta mawgod feh delwa2ty 
+  MASTER / MAIN
+    Branch
   
   git rm --cached <file> (from Tracked to Untracked)
 
@@ -34,10 +40,12 @@ Commands
   git log --oneline
   git branch -f master <hash of last commit> (if the master not point to last commit)
 2- go back to the old version 
+  {make the HEAD point leave the master and go to the node position that has has value}
   git checkout <hash of old version>
   3- copy the content that u need to paste it in the current Version
 4- go back to current version (aly howa kan 3ando al master)
   git checkout master 
+  {Make the HEAD return back to the master pointer after leaving }
   5- paste the content 
 
 lw 3awz tmsh commit mo3yn 
@@ -74,4 +82,3 @@ git remote -v           (by2olk al URL aly hat3ml 3leh push w Fetch (pull))
 what's the difference between ?
   git push origin main
   git push origin main --force
-
