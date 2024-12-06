@@ -54,5 +54,6 @@ gitignore (tgahol kol al ta8erat 3la file mo3yn)
   byb2a akno m4 mawgod asln
 1- create .gitignore file
 2- put all files that u need to ignored 
+  git rm --cached <file name> (to be untracked first)
   al files aly gowa al gitignore: m4 hatb2a la Tracked wla Untracked wla Modified 
   al gitignore nafso hayb2a Untracked
