@@ -9,3 +9,9 @@ Commands
   ls             (list all files in the folder)
   ls -a          (+show hidden files)(Mac & Linux)
   ls -force      (+show hidden files)(powershell)    
+
+  git add <file> (untracked files -> git add ->Tracked) (put file in staging Phase)
+  git status     (no commits yet)
+  git commit -m ""
+  git status -s  (simplify status)(?? -> untracked)
+  git add .      (Tracking all files at the same time)
