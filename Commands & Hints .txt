@@ -61,3 +61,8 @@ gitignore (tgahol kol al ta8erat 3la file mo3yn)
 Github - BigBucket - GitLab
 1- cloud using like a CV to show ur Projects
 2- Teamwork: push & pull the code
+
+git remote add origin https://github.com/Yahya-yasser/Learn_Git.git
+git branch -M main      (change name of branch from master to MAIN)
+git push -u origin main (hna b3ml push lel Origin aly howa al URL)
+git remote -v           (by2olk al URL aly hat3ml 3leh push w Fetch (pull))
