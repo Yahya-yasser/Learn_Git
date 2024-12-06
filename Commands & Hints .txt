@@ -27,3 +27,4 @@ Commands
   git log --oneline       (show that where is the HEAD, master)
   git branch -f master <hash> (by5ly al master 3la al commit aly anta 3awzo)
   
+  git rm --cached <file> (from Tracked to Untracked)
