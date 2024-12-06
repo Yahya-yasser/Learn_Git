@@ -1,3 +1,11 @@
 Git Benefits 
   1- Version control system
   2- work on branches wit team
+Commands 
+  git init       (intialize Repo)
+  git --version 
+  cd             (change directory)
+  clear
+  ls             (list all files in the folder)
+  ls -a          (+show hidden files)(Mac & Linux)
+  ls -force      (+show hidden files)(powershell)    
