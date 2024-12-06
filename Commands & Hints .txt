@@ -39,3 +39,9 @@ Commands
 4- go back to current version (aly howa kan 3ando al master)
   git checkout master 
   5- paste the content 
+
+lw 3awz tmsh commit mo3yn 
+1- git rebase -i HEAD~3 
+2- press esc + i 
+3- remove pick and put drop and remove the line that there's no changes
+4- press esc + shift + zz 
