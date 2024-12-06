@@ -23,3 +23,7 @@ Commands
   git reset HEAD~1        (Undo the commit and unstage the changes:)
   git reset --soft HEAD~1 (Undo the commit but keep the changes staged:)
   git reset --hard HEAD~1 (Undo the commit and discard all changes (permanently delete them))
+
+  git log --oneline       (show that where is the HEAD, master)
+  git branch -f master <hash> (by5ly al master 3la al commit aly anta 3awzo)
+  
