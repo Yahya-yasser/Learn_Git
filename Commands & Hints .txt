@@ -57,3 +57,7 @@ gitignore (tgahol kol al ta8erat 3la file mo3yn)
   git rm --cached <file name> (to be untracked first)
   al files aly gowa al gitignore: m4 hatb2a la Tracked wla Untracked wla Modified 
   al gitignore nafso hayb2a Untracked
+
+Github - BigBucket - GitLab
+1- cloud using like a CV to show ur Projects
+2- Teamwork: push & pull the code
