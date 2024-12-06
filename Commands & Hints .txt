@@ -45,3 +45,6 @@ lw 3awz tmsh commit mo3yn
 2- press esc + i 
 3- remove pick and put drop and remove the line that there's no changes
 4- press esc + shift + zz 
+
+lw 3awz t8ir asm commit adem t3ml eh https://youtu.be/BNF4le5X1Ms
+(m4 3arf azay)
