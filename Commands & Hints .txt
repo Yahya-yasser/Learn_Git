@@ -82,3 +82,7 @@ git remote -v           (by2olk al URL aly hat3ml 3leh push w Fetch (pull))
 what's the difference between ?
   git push origin main
   git push origin main --force
+
+git branch (by2olk anta 3ndk kam branch)
+ (by default anta 3ndk wahed bs aly howa al *MAIN)
+ (asln al branch dah kan asmo MASTER b2a asmo MAIN 8ayrnah w a7na bnrf3 al projcet 3la github)
