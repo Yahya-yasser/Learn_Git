@@ -28,3 +28,14 @@ Commands
   git branch -f master <hash> (by5ly al master 3la al commit aly anta 3awzo)
   
   git rm --cached <file> (from Tracked to Untracked)
+
+  lw 3awz ta5od haga mn version adem w b3den t3mlha copy w b3den trg3 lel version aly anta kont 48al feh w t3mlha paste
+1- check that Master on the last commit 
+  git log --oneline
+  git branch -f master <hash of last commit> (if the master not point to last commit)
+2- go back to the old version 
+  git checkout <hash of old version>
+  3- copy the content that u need to paste it in the current Version
+4- go back to current version (aly howa kan 3ando al master)
+  git checkout master 
+  5- paste the content 
