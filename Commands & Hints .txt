@@ -19,3 +19,7 @@ Commands
   git log        (show Repo History)(press many ENTER to show more history)
     press q to end get log 
     8ada75102... => hash (like id)
+
+  git reset HEAD~1        (Undo the commit and unstage the changes:)
+  git reset --soft HEAD~1 (Undo the commit but keep the changes staged:)
+  git reset --hard HEAD~1 (Undo the commit and discard all changes (permanently delete them))
