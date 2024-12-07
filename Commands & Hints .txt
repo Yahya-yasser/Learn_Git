@@ -177,7 +177,7 @@ Gitflow strategy
       - merge Master into Dev
       - finally aly mawgod fy al master mawgod fy al dev w al3ks saheh
     }
-    
+
     2-with Dev Branch Directly 
       - merge Dev into Master
       - finally aly mawgod fy al master mawgod fy al dev w al3ks saheh
@@ -196,17 +196,17 @@ Kind Of Branches in Gitflow
 5- Release 
 6- HotFix
 
-()Amta al Dev ysb2 al Master 
+(14.png)Amta al Dev ysb2 al Master 
 1- a3ml commit l new featrue 
 
-()Amta al Master ysb2 al Dev
+(15.png)Amta al Master ysb2 al Dev
 1- B3dl mo4kla fy alProduction (hotfix)
 
-()Amta yb2a feh Branch tal3 mn al Dev w sabe2 al master
+(16.png)Amta yb2a feh Branch tal3 mn al Dev w sabe2 al master
 1-Relase Branch               (lsa mat3mlho4 merge lel master)
 2-New Features Branch         (lsa mat3mlho4 merge lel master)
 
-()Amta yb2a feh Branch tal3 mn al Master w sabe2 al Dev
+(17.png)Amta yb2a feh Branch tal3 mn al Master w sabe2 al Dev
 1-HotFix Branch               (lsa mat3mlho4 merge lel Dev)
     
 Immidiate Merge & Request Merge  awl Pull Request 
