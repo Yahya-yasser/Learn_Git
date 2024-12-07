@@ -112,6 +112,15 @@ merge al newBranch m3 al HEAD (al branches al far3ya hya aly byt3mlha dmg m3 al 
 How to go back in each node and Create branch on int ?
   git checkout <hash of the node>
   git branch NewBranch
+    Merge the 2 steps in 1 step (2 ways)
+
+    1-git checkout -b NewBranch <hash node>
+      1- create newBranch AT THE SPECIFIC NODE (HAS HAS CODE)
+      2- then HEAD => NewBranch
+
+    2-git chekout -b NewBranch 
+      1- create NewBranch AT HTE CURRENT NODE
+      2- then HEAD => NewBranch
   (tlama mafe4 branch aw pointer 3nd alnode deh maynf4 t3ml git checkout <w asm al commit> ):::
   (lazm t3ml git chekout <hash bta3 asm al commit>)
 
