@@ -169,13 +169,15 @@ Gitflow strategy
       b3den nslh7a b3den n3mlha merge mn al branch algeded dah 
       bhes anna nb2a 2lelna al errors fy al Master website
     )
+    {
       - Create NewBranch called Release
       - lw feh ay errors fy al Relase hansl7a w n3ml commits
       - then merge Release into Master
         (hna al master mt2dm 3n al Dev w homa lazm yb2o parallel m3 b3d)
       - merge Master into Dev
       - finally aly mawgod fy al master mawgod fy al dev w al3ks saheh
-
+    }
+    
     2-with Dev Branch Directly 
       - merge Dev into Master
       - finally aly mawgod fy al master mawgod fy al dev w al3ks saheh
