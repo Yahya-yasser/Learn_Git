@@ -155,12 +155,39 @@ Gitflow strategy
   2- don't delete Master & dev
   3- Master dev synchornization
      - any feature in master must be exits in dev 
-     - any feature in dev    must be exits in master 
+     - any feature in dev    must be exits in master
+     - al Master w al Dev daymn lazmn yb2o mashyen parallel m3 b3d 
   4- Master Real  webstie
   5- Dev Rractice website
      - bngrb al feature deh 3la al practice website dah w b3den nkkr nhotha fy al real website wla la2
      - Daimn al development byb2a 3la al Dev webstie al awl w b3den al Production byb2a 3la al Master website
+  6- Lma a5ls al Testing 3la al Dev 
+    (feh tre2ten 34an a3ml merge Dev into Master)
+    1-with Release Branch 
+    ( s3at feh errors m4 btban fy al Dev 
+      fa han3ml branch gded 34an tban feh al errors deh 
+      b3den nslh7a b3den n3mlha merge mn al branch algeded dah 
+      bhes anna nb2a 2lelna al errors fy al Master website
+    )
+      - Create NewBranch called Release
+      - lw feh ay errors fy al Relase hansl7a w n3ml commits
+      - then merge Release into Master
+        (hna al master mt2dm 3n al Dev w homa lazm yb2o parallel m3 b3d)
+      - merge Master into Dev
+      - finally aly mawgod fy al master mawgod fy al dev w al3ks saheh
 
+    2-with Dev Branch Directly 
+      - merge Dev into Master
+      - finally aly mawgod fy al master mawgod fy al dev w al3ks saheh
+  7-hot Fix (afrd Al new Featrures deh 3mlt mo4kla msln fy al Singup fy al Master Productoin website)
+   (lazm a7l almo4kla deh bsor3a)
+   1-Create new branch from Master called HotFix
+   2-Debug the issue 
+   3-merge HotFix into Master  (for solve the problem)
+   4-Merge Master into Dev     (for synchornization)
+
+            (lsa mat3mlho4 merge lel Dev)
+    
 Immidiate Merge & Request Merge  awl Pull Request 
   -Immidiate : zy ma 3mlna fy al branching exam
   -(pull)Request   : bt5ly nas t3ml testing al awl 3la al feature b3d kda byt3mlha Merge lw al 4o8l mazbot
