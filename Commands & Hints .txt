@@ -186,7 +186,13 @@ Gitflow strategy
    3-merge HotFix into Master  (for solve the problem)
    4-Merge Master into Dev     (for synchornization)
 
-            (lsa mat3mlho4 merge lel Dev)
+Kind Of Branches in Gitflow
+1- Master
+2- HEAD (asasy kda kda)
+3- Dev
+4- Features (X Y Z)
+5- Release 
+6- HotFix            
     
 Immidiate Merge & Request Merge  awl Pull Request 
   -Immidiate : zy ma 3mlna fy al branching exam
