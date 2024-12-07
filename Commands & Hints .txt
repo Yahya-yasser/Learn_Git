@@ -92,3 +92,19 @@ git branch newBranch
 git checkout newBranch 
   34an aruh lel makan aly feh al newBranch mhtag a5ly al head yseb al main w y4awr 3la al newBranch
 
+merge al newBranch m3 al HEAD (al branches al far3ya hya aly byt3mlha dmg m3 al main)
+  git log --oneline (34an a3rf al HEAD fen)
+  git checkout main (lazm al HEAD => Main not al newBranch)
+  git merge newBranch    (merge al newBranch 3la al main)
+  resolve Conflict
+  git add .
+  git commit -m "merge newBranch into main" 
+    (HEAD main haytharko le al merged node w al new hayfdl fy mkano)
+  git log (check the history)
+    (al merged node awl haga)
+    (al newBranch)
+    (al node aly kan 3ndha al HEAD w al master abl al merge)
+    (b3dha bykml 3ady)
+  git branch -d "newBranch" (delete the branch or the pointer)
+  
+
