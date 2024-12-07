@@ -109,4 +109,10 @@ merge al newBranch m3 al HEAD (al branches al far3ya hya aly byt3mlha dmg m3 al 
   git branch -d newBranch (delete the branch or the pointer)
   (hna bms7 al branch aw al pointer ama alnode aly kan 3ndha al branch btfdl zy mahya)
 
+How to go back in each node and Create branch on int ?
+  git checkout <hash of the node>
+  git branch NewBranch
+  (tlama mafe4 branch aw pointer 3nd alnode deh maynf4 t3ml git checkout <w asm al commit> ):::
+  (lazm t3ml git chekout <hash bta3 asm al commit>)
+
 
