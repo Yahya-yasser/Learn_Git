@@ -106,6 +106,7 @@ merge al newBranch m3 al HEAD (al branches al far3ya hya aly byt3mlha dmg m3 al 
     (al newBranch)
     (al node aly kan 3ndha al HEAD w al master abl al merge)
     (b3dha bykml 3ady)
-  git branch -d "newBranch" (delete the branch or the pointer)
+  git branch -d newBranch (delete the branch or the pointer)
+  (hna bms7 al branch aw al pointer ama alnode aly kan 3ndha al branch btfdl zy mahya)
 
 
