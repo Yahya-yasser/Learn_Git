@@ -160,3 +160,7 @@ Gitflow strategy
   5- Dev Rractice website
      - bngrb al feature deh 3la al practice website dah w b3den nkkr nhotha fy al real website wla la2
      - Daimn al development byb2a 3la al Dev webstie al awl w b3den al Production byb2a 3la al Master website
+
+Immidiate Merge & Request Merge  awl Pull Request 
+  -Immidiate : zy ma 3mlna fy al branching exam
+  -(pull)Request   : bt5ly nas t3ml testing al awl 3la al feature b3d kda byt3mlha Merge lw al 4o8l mazbot
