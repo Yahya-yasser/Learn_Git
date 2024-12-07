@@ -134,3 +134,16 @@ export repo from github then work on it in Git
     git branch -M main 
     git remote add origin https://github.com/Yarob50/exam.git
     git push -u origin main
+
+Git branching Strategies
+  one project 
+  3 Developers in Teamwor
+    Developer 1 -> branch 1
+    Developer 2 -> branch 2
+    Developer 3 -> branch 3
+    (hna kol Developer b3ml commit lma y5ls goz mn al featrue)
+    (w lma y5lsha 5ales by3mlha merge)
+  then integrate 3 branches together (tgme3)
+    continuous integration
+  then deliver it to (host of server, playstore, ...)
+    continuous Delivery
