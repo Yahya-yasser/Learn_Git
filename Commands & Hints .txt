@@ -147,3 +147,16 @@ Git branching Strategies
     continuous integration
   then deliver it to (host of server, playstore, ...)
     continuous Delivery
+
+Gitflow strategy
+  1-start with 2 branches
+    master
+    dev
+  2- don't delete Master & dev
+  3- Master dev synchornization
+     - any feature in master must be exits in dev 
+     - any feature in dev    must be exits in master 
+  4- Master Real  webstie
+  5- Dev Rractice website
+     - bngrb al feature deh 3la al practice website dah w b3den nkkr nhotha fy al real website wla la2
+     - Daimn al development byb2a 3la al Dev webstie al awl w b3den al Production byb2a 3la al Master website
