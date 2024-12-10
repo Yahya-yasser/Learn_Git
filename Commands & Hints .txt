@@ -19,6 +19,7 @@ Commands
   git commit -m ""
   git status -s  (simplify status)(?? -> untracked)
   git add .      (Tracking all files at the same time)
+  A -> index added
 
   git log        (show Repo History)(press many ENTER to show more history)
     press q to end get log 
