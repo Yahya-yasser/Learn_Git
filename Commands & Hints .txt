@@ -136,6 +136,8 @@ export repo from github then work on it in Git
     git push -u origin main
 
 Git branching Strategies
+1- Git Flow 
+1- Github Flow
   one project 
   3 Developers in Teamwor
     Developer 1 -> branch 1
