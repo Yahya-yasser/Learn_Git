@@ -261,3 +261,9 @@ what is the Branch Strategy that have less Branches => Trunk based Flow
 what is the Best Strategy to use? => (3.png)
 what is the Problem of Git Flow? => Merge hill (to many merge operations that's leads it complex)
 
+Open Source Defenition
+1- Many Developers bulid Project step by step together
+2- https://github.com/Yarob50/First-Contribution-ARABIC | Yarob Rebositary
+3- fork (to get copy of the Code)
+4- Download In Github Disktop
+5- Contibute in the Open source later
