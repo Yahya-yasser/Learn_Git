@@ -242,3 +242,16 @@ Kind Of Branches in GitHub flow
 2- Hot Fix & Add New Feature 
   (al hot fix howa howa new Feature) leh b2a ? 
   34an lma byhsl error bsbb Feature x masln batl3 branch gded mn al master asmo hotFix.x byhl al mo4kla b3den b3mlo merge lel master tany
+
+  Trunk based
+  1- without Branches (howa al Master bs)
+  2- Trank y3ny gz3 y3ny mafe4 branches tanya
+  3- No Pull Request (al pull Request byt3ml ben al Branches bs ama hna ana 3ndy al master bs)
+  4- push and pull Directly from Master
+
+  Steps to Add new Feature
+  0- Nodes saved Globaly in Master
+  1- Pull all Nodes From Master (to have copy)
+  2- Work on Featrue 
+  3- push the Featrue into Master
+  4- if there's Confilct (al Git m4 hay5lek t3ml push 8er lma t3ml Resolve lel conflict)
