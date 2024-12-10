@@ -218,3 +218,27 @@ Kind Of Branches in Gitflow
 Immidiate Merge & Request Merge  awl Pull Request 
   -Immidiate : zy ma 3mlna fy al branching exam
   -(pull)Request   : bt5ly nas t3ml testing al awl 3la al feature b3d kda byt3mlha Merge lw al 4o8l mazbot
+
+GitHub Flow
+  (adding 3 Features)
+  1- Create 3 Branches For X , Y , Z 
+  2- Then Commit the Changes
+  3- Then Pull Request to accept (hna mafe4 merge)(review by TeamLeader Or Bot )
+  4- Then merge to Master After Aceepted
+  5-(12.png)(if there's issue after merged to Master)
+    HotFix Branch From the node has the issue and fix error then merged to Master Again 
+
+0- hna Mafe4 Practice Environment 
+(mafe4 al Dev Branch)(hna al new Featrures b3d ma yt3mlha accept bthth 3latol fy al Master(real Environment))  
+(bs Feh PreView Environment aly hya al Pull Request)
+1- Remove Dev Branch
+2- Depend on Pull Request (GitHub flow)
+3- continuous Deployment
+  (al GitHub Flow ymel akter lel Deployment m4 al Development hta lw Feh Pull Request aly hya mhtaga tad5ol ba4ry 34an y3ml accept lel Request)
+4-(if feature Y depended on feature Z ) u must add Feature Z to Master First and then add Feature Y 
+
+Kind Of Branches in GitHub flow
+1- Master
+2- Hot Fix & Add New Feature 
+  (al hot fix howa howa new Feature) leh b2a ? 
+  34an lma byhsl error bsbb Feature x masln batl3 branch gded mn al master asmo hotFix.x byhl al mo4kla b3den b3mlo merge lel master tany
