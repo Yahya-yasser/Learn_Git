@@ -1,6 +1,10 @@
 Git Benefits 
   1- Version control system
   2- work on branches wit team
+Git configuration 
+  git config --global user.name ""
+  git config --global user.email ""
+
 Commands 
   git init       (intialize Repo)
   git --version 
