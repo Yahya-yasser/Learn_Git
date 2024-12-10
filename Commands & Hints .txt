@@ -135,6 +135,10 @@ export repo from github then work on it in Git
     git remote add origin https://github.com/Yarob50/exam.git
     git push -u origin main
 
+Difference Between C Del vs C Dep
+1- continuous Delivery   (tada5ol ba4ry 34an a3ml add new featrue le la Master Website) 
+1- continuous Deployment (Automatid - Mafe4 tada5ol ba4ry 34an a3ml add new featrue le la Master Website) 
+
 Git branching Strategies
 1- Git Flow 
 1- Github Flow
