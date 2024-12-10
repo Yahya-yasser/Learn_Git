@@ -255,3 +255,9 @@ Kind Of Branches in GitHub flow
   2- Work on Featrue 
   3- push the Featrue into Master
   4- if there's Confilct (al Git m4 hay5lek t3ml push 8er lma t3ml Resolve lel conflict)
+
+what is the Branch Strategy that have more Branches => Git Flow
+what is the Branch Strategy that have less Branches => Trunk based Flow
+what is the Best Strategy to use? => (3.png)
+what is the Problem of Git Flow? => Merge hill (to many merge operations that's leads it complex)
+
