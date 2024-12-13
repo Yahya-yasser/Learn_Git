@@ -279,3 +279,5 @@ Open Source Defenition
 
 Misunderstanding 
 1- git config --global core.editor "code --wait"
+
+First node Point to null ::: 34an mafe4 haga ablha t4awr 3leha 
