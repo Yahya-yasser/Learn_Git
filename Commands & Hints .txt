@@ -16,7 +16,7 @@ Commands
   ls -a          (+show hidden files)(Mac & Linux)
   ls -force      (+show hidden files)(powershell)    
 
-  git add <file> (untracked files -> git add ->Tracked) (put file in staging Phase)
+  git add <file1><file2><file3> (untracked files -> git add ->Tracked) (put file in staging Phase)
   git status     (no commits yet)
   git commit -m ""
     commit : check point (like game)
