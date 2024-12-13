@@ -67,8 +67,13 @@ lw 3awz t8ir asm commit adem t3ml eh https://youtu.be/BNF4le5X1Ms
 (m4 3arf azay)
 
 gitignore (tgahol kol al ta8erat 3la file mo3yn)
-  al file dah m4 byb2a untracked la2:::
-  byb2a akno m4 mawgod asln
+examples 
+1- .env           (this file save the passwrod & API Keys & Secret Data & Database credentials)(Private Data)
+2- node_modules/  (Packages)(Big Files)
+3- .vscode/       (Personal Settings that's change from Developer to another)
+
+al file dah m4 byb2a untracked la2:::
+byb2a akno m4 mawgod asln
 1- create .gitignore file
 2- put all files that u need to ignored 
   git rm --cached <file name> (to be untracked first)
