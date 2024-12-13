@@ -276,3 +276,6 @@ Open Source Defenition
 3- fork (to get copy of the Code)
 4- Download In Github Disktop
 5- Contibute in the Open source later
+
+Misunderstanding 
+1- git config --global core.editor "code --wait"
