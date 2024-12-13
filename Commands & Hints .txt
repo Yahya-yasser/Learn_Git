@@ -7,6 +7,8 @@ Git configuration
 Git & GitHub Stages 
 working Directory -> git add -> Statging Area -> git commit -> Repo -> git push -> Git hub 
 
+
+
 Commands 
   git init       (intialize Repo)
   git --version 
@@ -16,6 +18,12 @@ Commands
   ls             (list all files in the folder)
   ls -a          (+show hidden files)(Mac & Linux)
   ls -force      (+show hidden files)(powershell)    
+
+  cat $HOME\.gitconfig       (show my personal data : name , email and more....)
+  git config --global --list (show my personal data : name , email and more....)
+  cat .git\config            (show my personal data : core & origin URL & branch)
+
+ 
 
   git add <file1><file2><file3> (untracked files -> git add ->Tracked) (put file in staging Phase)
   git status     (no commits yet)
