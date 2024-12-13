@@ -11,6 +11,7 @@ Commands
   git init       (intialize Repo)
   git --version 
   cd             (change directory)
+  pwd            (Print Working Directory)(indicates that the current working directory )
   clear
   ls             (list all files in the folder)
   ls -a          (+show hidden files)(Mac & Linux)
