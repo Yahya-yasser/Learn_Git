@@ -25,12 +25,13 @@ Commands
 
  
 
-  git add <file1><file2><file3> (untracked files -> git add ->Tracked) (put file in staging Phase)
-  git status     (no commits yet)
+  git add <file1><file2><file3>           (untracked files -> git add ->Tracked) (put file in staging Phase)
+  git status                              (no commits yet)
   git commit -m ""
     commit : check point (like game)
-  git status -s  (simplify status)(?? -> untracked)
-  git add .      (Tracking all files at the same time)
+  git commit -m "---message---" --amend    (Update previous commit instead of creating new one) (Rename The last Commit)
+  git status -s                            (simplify status)(?? -> untracked)
+  git add .                                (Tracking all files at the same time)
   A -> index added
 
   git log        (show Repo History)(press many ENTER to show more history)
