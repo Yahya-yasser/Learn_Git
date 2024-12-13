@@ -17,6 +17,7 @@ Commands
   git add <file> (untracked files -> git add ->Tracked) (put file in staging Phase)
   git status     (no commits yet)
   git commit -m ""
+    commit : check point (like game)
   git status -s  (simplify status)(?? -> untracked)
   git add .      (Tracking all files at the same time)
   A -> index added
