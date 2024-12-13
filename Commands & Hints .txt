@@ -293,6 +293,17 @@ Open Source Defenition
 
 Misunderstanding 
 1- git config --global core.editor "code --wait"
+2- staging => working
+  git reset <file|folder>
+  git reset file
+  git reset folder/
+  git reset .
+
+3- working => remove the changes
+  git checkout -- <file|folder>
+  git checkout -- file
+  git checkout -- folder/
+  git checkout -- .
 
 First node Point to null ::: 34an mafe4 haga ablha t4awr 3leha 
 
